@@ -1,4 +1,4 @@
-const temp = 12;
+const temperature = 12;
 
 if (temperature < 0) {
   console.log("Make sure you pick out a scarf!");
